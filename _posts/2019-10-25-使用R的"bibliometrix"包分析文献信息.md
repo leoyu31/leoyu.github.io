@@ -2,7 +2,7 @@
 layout: post
 title: 如何用R分析文献信息?
 ---
-
+ 
 首先安装并载入bibliometrix包:
 
 `
