@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+
+### Information
 
 This is a personal webpage of Leo YU, a Ph.D student and researcher on Plant Science.
 
