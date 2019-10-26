@@ -18,5 +18,5 @@ as too few.
 
 The very media (Radio and TV) are so designed as to make thinking seem unnecessary.
 
-The purpose is to call attention to the fact that reading can be more or less active, and the point out that the more active the reading better. 
+**The purpose is to call attention to the fact that reading can be more or less active, and the point out that the more active the reading better. 
 
