@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is a personal webpage of Leo YU, a Ph.D student and researcher on Plant Science.
 
 ### Contact me
 
