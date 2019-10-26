@@ -12,16 +12,16 @@ title: 如何用R分析文献信息?
 
 运行R, 安装并载入bibliometrix包:
 
-``R
+```R
 install.packages("bibliometrix", dependencies = TRUE) #注意英文半角引号
 library(bibliometrix)
-``
+```
 
 然后运行命令:
 
-``R
+```R
 biblioshiny()
-``
+```
 
 等待片刻即可在浏览器中使用图形界面的bibliometrix程序.
 
