@@ -10,7 +10,7 @@ title: How to Read a Paper Efficiently!
 
 总结:
 
->  **不要按文本呈现的顺序阅读!**
+>  不要按文本呈现的顺序阅读!
 
 > Phase 1: Survey the article
 
