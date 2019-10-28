@@ -11,5 +11,5 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 To insert a youtube video:
 ```
-{% include youtubePlayer.html id="4EU7vvSvV-0" %}
+{% include youtubePlayer.html id="video_id" %}
 ```
