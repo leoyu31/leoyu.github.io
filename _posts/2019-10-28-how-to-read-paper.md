@@ -12,19 +12,19 @@ title: How to Read a Paper Efficiently!
 
 * Phase 1: Survey the article
 
-快速浏览**标题, 摘要, 结论**部分, 确定是否有继续阅读的价值
+  快速浏览**标题, 摘要, 结论**部分, 确定是否有继续阅读的价值
 
 * Phase 2: Dig in the article
 
-阅读**图表**部分, 仔细阅读图注
+  阅读**图表**部分, 仔细阅读图注
 
-阅读**引言**与**综述**部分
+  阅读**引言**与**综述**部分
 
 * Phase 3: Read seriously 
 
-仔细阅读**实验方法**与**结果**
+  仔细阅读**实验方法**与**结果**
 
 * Phase 4: Take notes
 
-写**笔记**并做好整理
+  写**笔记**并做好整理
 
