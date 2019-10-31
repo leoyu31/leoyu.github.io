@@ -5,17 +5,17 @@ title: 文献笔记
 
 <!--more-->
  
-[Strauss-Debenedetti and Bazzaz, Oecologia, 1991](#Str-Deb&Baz@1991)
+[Strauss-Debenedetti and Bazzaz, *Oecologia*, 1991](#Str-Deb&Baz@1991)
 
-[Valladares, Wright, et al, Ecology, 2000](#Val&Wri&etal@2000)
+[Valladares, Wright, et al, *Ecology*, 2000](#Val&Wri&etal@2000)
 
 <span id="Str-Deb&Baz@1991">Strauss-Debenedetti and Bazzaz, Oecologia, 1991</span>
 
-Title:
+**Title**:
 
-Key words: photosynthetic acclimation, acclimation, sun-shade responses, plasticity, tropical seedlings
+**Key words**: photosynthetic acclimation, acclimation, sun-shade responses, plasticity, tropical seedlings
 
-Content:
+**Content**:
 
 * Evaluate p-s plasticity and acclimation of seedlings of 5 tropical trees with
 defferent habitat breadth and successional status.
@@ -31,6 +31,6 @@ of Pn after trasfer.
 
 <span id="Val&Wri&etal@2000">Valladares, Wright, et al, Ecology, 2000</span>
 
-Title:
+**Title**:
 
-Key words: light acclimation, phenotypic plasticity, tropical forest
+**Key words**: light acclimation, phenotypic plasticity, tropical forest
