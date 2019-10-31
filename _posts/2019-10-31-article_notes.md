@@ -34,3 +34,18 @@ of Pn after trasfer.
 **Title**:
 
 **Key words**: light acclimation, phenotypic plasticity, tropical forest
+
+**Content**:
+
+* Phenotypic plasticity of 16 tropical forest shrubs (6 in gap, and 10 in understorey) investigated, grew in three light regimes, namely low light, intermidiate, and high light. 
+
+* Shoot RGR similiar for all species in low light. Shoot RGR sig. higher in intermidiate light than in high light, for gap species.
+
+* Plasticity of morphological traits sig. lower than physiological traits.
+
+* Plasticity of gap species sig. higher than understorey species.
+
+* Phenotypic plasticity decreased with increase in leaf longevity.
+
+* Suggestion: High plasticity for gap species is adaptive in gap habitat.
+
