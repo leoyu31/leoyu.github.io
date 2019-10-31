@@ -3,8 +3,8 @@ layout: post
 title: 文献笔记
 ---
 
+ 
 <!--more-->
-  
  
 [Strauss-Debenedetti and Bazzaz, *Oecologia*, 1991](#Str-Deb&Baz@1991)
 
