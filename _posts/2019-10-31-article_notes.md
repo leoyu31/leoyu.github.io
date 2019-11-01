@@ -53,7 +53,7 @@ of Pn after trasfer.
 
 * Suggestion: High plasticity for gap species is adaptive in gap habitat.
 
-<span id="Eva&Poo@2001"></blockquote>Evans and Poorter, PCE, 2001</blockquote></span>
+<span id="Eva&Poo@2001"><blockquote>Evans and Poorter, PCE, 2001</blockquote></span>
 
 **Title**: Photosynthetic acclimation of plants to growth irradiance: the relative importance of specific leaf area and nitrogen partitioning in maximizing carbon gain
 
