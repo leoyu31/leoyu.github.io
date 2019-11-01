@@ -5,13 +5,15 @@ title: 文献笔记
 tag: Academic 
 <!--more-->
  
+[Evans and Poorter, *PCE*, 2001](#Eva&Poo@2001)
+
 [Strauss-Debenedetti and Bazzaz, *Oecologia*, 1991](#Str-Deb&Baz@1991)
 
 [Valladares, Wright, et al, *Ecology*, 2000](#Val&Wri&etal@2000)
 
 <span id="Str-Deb&Baz@1991">Strauss-Debenedetti and Bazzaz, Oecologia, 1991</span>
 
-**Title**:
+**Title**: Plasticity and acclimation to light in tropical Moraceae of different sucessional positions
 
 **Key words**: photosynthetic acclimation, acclimation, sun-shade responses, plasticity, tropical seedlings
 
@@ -31,7 +33,7 @@ of Pn after trasfer.
 
 <span id="Val&Wri&etal@2000">Valladares, Wright, et al, Ecology, 2000</span>
 
-**Title**:
+**Title**: Plastic phenotypic response to light of 16 congeneric shrubs from a Panamanian rainforest
 
 **Key words**: light acclimation, phenotypic plasticity, tropical forest
 
@@ -49,3 +51,21 @@ of Pn after trasfer.
 
 * Suggestion: High plasticity for gap species is adaptive in gap habitat.
 
+<span id="Eva&Poo@2001">Evans and Poorter, PCE, 2001</span>
+
+**Title**: Photosynthetic acclimation of plants to growth irradiance: the relative importance of specific leaf area and nitrogen partitioning in maximizing carbon gain
+
+**key words**: p-s, light absorptance, Rubisco, sun-shade acclimation, SLA, nitrogen partition
+
+**Content**:
+
+* Quantified the relationship between changes in SLA and nitrogen partition, and changes in carbon gain, of 10 C3 species.
+
+* Pn per area under high light 3 times than under low light, 2 times for saturated Pn.
+
+* Pn per dry mass constant (2 times SLA under low light)
+
+* Nitrogen per dry mass constant, but more distrubution in light harvesting under low light.
+
+* Pn per dry mass under low light much more responsive to SLA than nitrogen, and SLA still more important 
+than nitrogen under high light.
