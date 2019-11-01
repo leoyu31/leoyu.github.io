@@ -13,7 +13,7 @@ Project: Sun-shade acclimation
 
 [Valladares, Wright, et al, *Ecology*, 2000](#Val&Wri&etal@2000)
 
-<span id="Str-Deb&Baz@1991">Strauss-Debenedetti and Bazzaz, Oecologia, 1991</span>
+<span id="Str-Deb&Baz@1991"><blockquote>Strauss-Debenedetti and Bazzaz, Oecologia, 1991</blockquote></span>
 
 **Title**: Plasticity and acclimation to light in tropical Moraceae of different sucessional positions
 
@@ -33,7 +33,7 @@ of Pn after trasfer.
 
 * Strong relationship between Pn max and nitrogen content.
 
-<span id="Val&Wri&etal@2000">Valladares, Wright, et al, Ecology, 2000</span>
+<span id="Val&Wri&etal@2000"><blockquote>Valladares, Wright, et al, Ecology, 2000</blockquote></span>
 
 **Title**: Plastic phenotypic response to light of 16 congeneric shrubs from a Panamanian rainforest
 
@@ -53,7 +53,7 @@ of Pn after trasfer.
 
 * Suggestion: High plasticity for gap species is adaptive in gap habitat.
 
-<span id="Eva&Poo@2001">Evans and Poorter, PCE, 2001</span>
+<span id="Eva&Poo@2001"></blockquote>Evans and Poorter, PCE, 2001</blockquote></span>
 
 **Title**: Photosynthetic acclimation of plants to growth irradiance: the relative importance of specific leaf area and nitrogen partitioning in maximizing carbon gain
 
