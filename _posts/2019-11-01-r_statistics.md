@@ -10,13 +10,13 @@ title: 基于R的统计分析
 将`.csv`文件加载到R中:
 
 ```R
-data1 <- read.csv("\\path\\", header = TRUE or FALSE)
+data1 <- read.csv("path:\\path\\", header = TRUE or FALSE) #视有无列名而定.
 data1
 ```
 单因素方差分析(ANOVA):
 
 ```R
-aov <- aov(value ~ treatment, data = data1)
+aov <- aov(value ~ treatment, data = data1) #不要忘记确认data1$treatment的属性是否为factor.
 anova_test <- summary(aov)
 anova_test
 ```
@@ -26,7 +26,7 @@ anova_test
 ```R
 install.packages("agricolae")
 library(agricolae)
-test_tukey <- HSD.test(aov, "treatment", group = TRUE)
+test_tukey <- HSD.test(aov, "treatment", alpha = 0.05, group = TRUE)
 test_tukey
 ```
 
